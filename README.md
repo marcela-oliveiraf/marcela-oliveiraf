@@ -33,18 +33,14 @@
   <img align="center" alt="Marcela-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Marcela-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" alt="Marcela-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Marcela-git" height=40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
-          
-        
+  <img align="center" alt="Marcela-git" height=40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />        
 </div>
 
 ##
 
 <h3 align="center">Databases</h3>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Marcela-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
+  <img align="center" alt="Marcela-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 </div>
 
 
@@ -61,7 +57,7 @@
 
 <h3 align="center">Microcontroller</h3>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Marcela-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-            
+  <img align="center" alt="Marcela-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />            
 </div>
 
+![Snake animation](https://github.com/marcela-oliveiraf/marcela-oliveiraf)
