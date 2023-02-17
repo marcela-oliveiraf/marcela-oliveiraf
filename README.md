@@ -60,5 +60,5 @@
   <img align="center" alt="Marcela-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />            
 </div>
 
-![snake gif](https://github.com/marcela-oliveiraf/marcela-oliveiraf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marcela-oliveiraf/blob/output/github-contribution-grid-snake.svg)
 
