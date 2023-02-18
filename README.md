@@ -15,10 +15,12 @@
 ##
 <br>
 
-<a href="https://github.com/marcela-oliveiraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcela-oliveiraf&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" alt="Marcela's Github stats" /></a> | <a href="https://github.com/marcela-oliveiraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-oliveiraf&layout=compact&theme=vision-friendly-dark&hide_border=false" /></a> |
+<a href="https://github.com/marcela-oliveiraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcela-oliveiraf&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Marcela's Github stats" /></a> | <a href="https://github.com/marcela-oliveiraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-oliveiraf&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
+
+
 
 <h2 align="center">Skills</h2>
 
