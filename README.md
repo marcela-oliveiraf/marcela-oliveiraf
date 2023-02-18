@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! I'm Marcela :robot: :lizard:</h2> 
+<h2 align="center">Hello World! I'm Marcela :lizard:</h2> 
 
 
 
