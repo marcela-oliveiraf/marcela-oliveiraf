@@ -1,16 +1,11 @@
 <h2 align="center">Hello World! I'm Marcela :lizard:</h2> 
 
 
-
 <div  style="display: inline_block" align="center">  
   <a href="https://www.linkedin.com/in/marcela-oliveiraf/" target="_blank"><img alt="Marcela-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>    
 </div>
 
 <br>
-
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=marcela-oliveiraf.marcela-oliveiraf" alt="visitors" />  
-</p>
 
 ##
 <br>
