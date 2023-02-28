@@ -2,7 +2,10 @@
 
 
 <div  style="display: inline_block" align="center">  
+  <a href="mailto:contato.marcelaoliveiraf@gmail.com"><img alt="Marcela-gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+  <a href="https://www.instagram.com/marcela.oliveirafr/" target="_blank"><img alt="Marcela-instagram" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/marcela-oliveiraf/" target="_blank"><img alt="Marcela-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>    
+  <a href="https://www.kaggle.com/marcelaoliveiraf"  target="_blank"><img alt="Marcela-kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" target="_blank"/></a>  
 </div>
 
 <br>
