@@ -1,5 +1,6 @@
-<h2 align="center">Hello World! I'm Marcela :lizard:</h2> 
-
+<div  align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A811&center=true&width=435&lines=Hello+World!+I'm+Marcela+%F0%9F%96%96%F0%9F%8F%BC" alt="Typing SVG" /></a>
+</div>
 
 <div  style="display: inline_block" align="center">  
   <a href="mailto:contato.marcelaoliveiraf@gmail.com"><img alt="Marcela-gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
@@ -8,7 +9,8 @@
   <a href="https://www.kaggle.com/marcelaoliveiraf"  target="_blank"><img alt="Marcela-kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" target="_blank"/></a>  
 </div>
 
-<br>
+
+<h3 align="center">"Technology is a means, not an end."</h3> 
 
 ##
 <br>
