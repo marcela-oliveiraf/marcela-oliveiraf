@@ -35,5 +35,3 @@
 
 </div>
 
-![](https://github.com/marcela-oliveiraf/marcela-oliveiraf/blob/output/github-contribution-grid-snake.svg)
-
